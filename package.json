@@ -8,6 +8,9 @@
     "pretest": "eslint --ignore-path .gitignore .",
     "test": "node_modules/mocha/bin/mocha tests/*"
   },
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arshadkazmi42/search-a-tags.git"
