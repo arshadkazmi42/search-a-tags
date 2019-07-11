@@ -25,11 +25,6 @@ console.log(links);
 // ]
 ```
 
-## API
-
-- `SearchTags`
-  - Parses url for all the `<a>` tags present in the HTML content
-
 ## Contributing
 
 Interested in contributing to this project?
