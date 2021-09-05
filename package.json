@@ -1,6 +1,6 @@
 {
   "name": "search-a-tags",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Search <a> tags from html content",
   "main": "index.js",
   "scripts": {
