@@ -1,6 +1,6 @@
 # search-a-tags
 
-[![Build Status](https://travis-ci.com/arshadkazmi42/search-a-tags.svg?branch=master)](https://travis-ci.com/arshadkazmi42/search-a-tags)
+[![Build](https://github.com/arshadkazmi42/search-a-tags/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/search-a-tags/actions/workflows/nodejs.yml)
 
 Search `<a>` tags of HTML from HTML content
 
